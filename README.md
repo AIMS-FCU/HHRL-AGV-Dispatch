@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://youtu.be/k7mr7pZXXjo">
-    <img src="https://img.youtube.com/vi/k7mr7pZXXjo/maxresdefault.jpg" alt="Watch the baseline traditional rule-based AGV dispatching demo on YouTube" width="840" />
+    <img src="https://img.youtube.com/vi/k7mr7pZXXjo/maxresdefault.jpg?v=2" alt="Watch the baseline traditional rule-based AGV dispatching demo on YouTube" width="840" />
   </a>
 </p>
 
