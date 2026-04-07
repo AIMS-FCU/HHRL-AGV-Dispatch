@@ -62,7 +62,7 @@ img {
   padding: 14px 18px;
   border: 1px solid var(--line);
   border-radius: 999px;
-  background: rgba(5, 12, 22, 0.72);
+  background: rgba(8, 15, 28, 0.88);
   backdrop-filter: blur(18px);
   box-shadow: var(--shadow);
 }
@@ -340,12 +340,25 @@ h1 {
   overflow: hidden;
   margin: 0;
   border-radius: 24px;
+  background: linear-gradient(180deg, rgba(244, 247, 251, 0.98), rgba(230, 237, 246, 0.96));
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.gallery-media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 320px;
+  padding: 22px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(240, 244, 248, 0.92)),
+    radial-gradient(circle at top, rgba(116, 195, 255, 0.18), transparent 45%);
 }
 
 .gallery-card img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  max-height: 580px;
+  object-fit: contain;
   transition: transform 260ms ease;
 }
 
@@ -355,12 +368,17 @@ h1 {
 
 .gallery-card figcaption {
   padding: 16px 18px 18px;
-  color: var(--muted);
-  background: rgba(3, 8, 16, 0.72);
+  color: #24384d;
+  font-weight: 600;
+  background: linear-gradient(180deg, rgba(239, 244, 249, 0.96), rgba(231, 238, 246, 0.98));
 }
 
 .gallery-card-wide {
   grid-column: span 2;
+}
+
+.gallery-card-wide .gallery-media {
+  min-height: 420px;
 }
 
 .citation-card {
