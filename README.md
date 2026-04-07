@@ -6,8 +6,21 @@
 </p>
 
 <p align="center">
-  <a href="./Baseline%20Traditional%20Rule-Based%20Method.mp4"><strong>Baseline Traditional Rule-Based Method Demo</strong></a><br/>
-  A direct visual reference to the conventional dispatching baseline used for comparison.
+  <img src="https://img.shields.io/badge/Demo%20Video-Baseline%20Traditional%20Rule--Based%20Method-black?style=for-the-badge" alt="Demo Video" />
+</p>
+
+<p align="center">
+  A direct visual reference to the conventional dispatching baseline used for comparison.<br/>
+  Use the demo to quickly inspect how the traditional rule-based method behaves before comparing it with the proposed HHRL framework.
+</p>
+
+<p align="center">
+  <a href="./Baseline%20Traditional%20Rule-Based%20Method.mp4">
+    <img src="https://img.shields.io/badge/Watch%20Demo-Open%20MP4-blue?style=for-the-badge" alt="Watch Demo" />
+  </a>
+  <a href="#visual-snapshot">
+    <img src="https://img.shields.io/badge/View-Figures%20and%20Results-success?style=for-the-badge" alt="View Figures and Results" />
+  </a>
 </p>
 
 <p align="center">
