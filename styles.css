@@ -173,7 +173,7 @@ h1 {
 }
 
 .hero-actions {
-  grid-template-columns: repeat(2, max-content);
+  grid-template-columns: repeat(3, max-content);
   gap: 14px;
   margin-bottom: 28px;
 }
@@ -287,6 +287,18 @@ h1 {
 .gallery-section,
 .citation-section {
   margin: 72px 0;
+}
+
+.demo-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-bottom: 14px;
+}
+
+.demo-note {
+  margin: 0 0 18px;
+  color: var(--muted);
 }
 
 .video-frame {

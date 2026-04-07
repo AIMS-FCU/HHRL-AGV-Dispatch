@@ -17,8 +17,13 @@
 </p>
 
 <p align="center">
+  <a href="https://www.bilibili.com/video/BV1e3DiBEEM2/"><strong>Watch Demo on Bilibili</strong></a> |
   <a href="https://youtu.be/k7mr7pZXXjo"><strong>Watch Demo on YouTube</strong></a> |
   <a href="https://aims-fcu.github.io/HHRL-AGV-Dispatch/#results"><strong>Project Website Results</strong></a>
+</p>
+
+<p align="center">
+  Viewers in Mainland China may prefer the Bilibili link for more reliable access.
 </p>
 
 <p align="center">
