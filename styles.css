@@ -334,11 +334,15 @@ h1 {
 .gallery-grid {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 18px;
+  align-items: start;
 }
 
 .gallery-card {
   overflow: hidden;
   margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-self: start;
   border-radius: 24px;
   background: linear-gradient(180deg, rgba(244, 247, 251, 0.98), rgba(230, 237, 246, 0.96));
   border: 1px solid rgba(255, 255, 255, 0.18);
@@ -348,7 +352,6 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 320px;
   padding: 22px;
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(240, 244, 248, 0.92)),
@@ -378,7 +381,7 @@ h1 {
 }
 
 .gallery-card-wide .gallery-media {
-  min-height: 420px;
+  padding: 28px;
 }
 
 .citation-card {
