@@ -1,0 +1,481 @@
+Object,State,Time,Utilization
+TaskExecuter1,Processing,0.000000,0.658687
+TaskExecuter1,Busy,0.000000,0.658687
+TaskExecuter1,Generating,0.000000,0.658687
+TaskExecuter1,Collecting,0.000000,0.658687
+TaskExecuter1,Releasing,0.000000,0.658687
+TaskExecuter1,Conveying,0.000000,0.658687
+TaskExecuter1,Travel empty,102064.413122,0.658687
+TaskExecuter1,Travel loaded,147233.864775,0.658687
+TaskExecuter1,Offset travel empty,0.000000,0.658687
+TaskExecuter1,Offset travel loaded,0.000000,0.658687
+TaskExecuter1,Loading,74550.000000,0.658687
+TaskExecuter1,Unloading,74525.825515,0.658687
+TaskExecuter1,Setup,0.000000,0.658687
+TaskExecuter1,Utilize,0.000000,0.658687
+TaskExecuter1,Full,0.000000,0.658687
+TaskExecuter1,Not empty,0.000000,0.658687
+TaskExecuter1,Filling,0.000000,0.658687
+TaskExecuter1,Mixing,0.000000,0.658687
+TaskExecuter1,Flowing,0.000000,0.658687
+TaskExecuter1,Allocated idle,0.000000,0.658687
+TaskExecuter1,Change over,0.000000,0.658687
+TaskExecuter1,Preprocessing,0.000000,0.658687
+TaskExecuter1,Postprocessing,0.000000,0.658687
+TaskExecuter1,Inspecting,0.000000,0.658687
+TaskExecuter1,Operating,0.000000,0.658687
+TaskExecuter1,Purging,0.000000,0.658687
+TaskExecuter1,Cleaning,0.000000,0.658687
+TaskExecuter1,Accelerating,0.000000,0.658687
+TaskExecuter1,Maxspeed,0.000000,0.658687
+TaskExecuter1,Decelerating,0.000000,0.658687
+TaskExecuter1,Accumulating,0.000000,0.658687
+TaskExecuter1,Idle,39623.155067,0.658687
+TaskExecuter1,Blocked,122102.741521,0.658687
+TaskExecuter1,Empty,0.000000,0.658687
+TaskExecuter1,Waiting for operator,44700.000000,0.658687
+TaskExecuter1,Waiting for transporter,0.000000,0.658687
+TaskExecuter1,Breakdown,0.000000,0.658687
+TaskExecuter1,Down,0.000000,0.658687
+TaskExecuter1,Starved,0.000000,0.658687
+TaskExecuter1,Repair,0.000000,0.658687
+TaskExecuter1,Maintenance,0.000000,0.658687
+TaskExecuter1,Lunch,0.000000,0.658687
+TaskExecuter1,On break,0.000000,0.658687
+TaskExecuter1,Suspend,0.000000,0.658687
+TaskExecuter1,Available,0.000000,0.658687
+TaskExecuter1,Standby,0.000000,0.658687
+TaskExecuter1,Stopped,0.000000,0.658687
+TaskExecuter1,Waiting,0.000000,0.658687
+TaskExecuter2,Processing,0.000000,0.669662
+TaskExecuter2,Busy,0.000000,0.669662
+TaskExecuter2,Generating,0.000000,0.669662
+TaskExecuter2,Collecting,0.000000,0.669662
+TaskExecuter2,Releasing,0.000000,0.669662
+TaskExecuter2,Conveying,0.000000,0.669662
+TaskExecuter2,Travel empty,103121.967700,0.669662
+TaskExecuter2,Travel loaded,150181.428634,0.669662
+TaskExecuter2,Offset travel empty,0.000000,0.669662
+TaskExecuter2,Offset travel loaded,0.000000,0.669662
+TaskExecuter2,Loading,75860.000000,0.669662
+TaskExecuter2,Unloading,75848.295328,0.669662
+TaskExecuter2,Setup,0.000000,0.669662
+TaskExecuter2,Utilize,0.000000,0.669662
+TaskExecuter2,Full,0.000000,0.669662
+TaskExecuter2,Not empty,0.000000,0.669662
+TaskExecuter2,Filling,0.000000,0.669662
+TaskExecuter2,Mixing,0.000000,0.669662
+TaskExecuter2,Flowing,0.000000,0.669662
+TaskExecuter2,Allocated idle,0.000000,0.669662
+TaskExecuter2,Change over,0.000000,0.669662
+TaskExecuter2,Preprocessing,0.000000,0.669662
+TaskExecuter2,Postprocessing,0.000000,0.669662
+TaskExecuter2,Inspecting,0.000000,0.669662
+TaskExecuter2,Operating,0.000000,0.669662
+TaskExecuter2,Purging,0.000000,0.669662
+TaskExecuter2,Cleaning,0.000000,0.669662
+TaskExecuter2,Accelerating,0.000000,0.669662
+TaskExecuter2,Maxspeed,0.000000,0.669662
+TaskExecuter2,Decelerating,0.000000,0.669662
+TaskExecuter2,Accumulating,0.000000,0.669662
+TaskExecuter2,Idle,38031.342819,0.669662
+TaskExecuter2,Blocked,120656.965520,0.669662
+TaskExecuter2,Empty,0.000000,0.669662
+TaskExecuter2,Waiting for operator,41100.000000,0.669662
+TaskExecuter2,Waiting for transporter,0.000000,0.669662
+TaskExecuter2,Breakdown,0.000000,0.669662
+TaskExecuter2,Down,0.000000,0.669662
+TaskExecuter2,Starved,0.000000,0.669662
+TaskExecuter2,Repair,0.000000,0.669662
+TaskExecuter2,Maintenance,0.000000,0.669662
+TaskExecuter2,Lunch,0.000000,0.669662
+TaskExecuter2,On break,0.000000,0.669662
+TaskExecuter2,Suspend,0.000000,0.669662
+TaskExecuter2,Available,0.000000,0.669662
+TaskExecuter2,Standby,0.000000,0.669662
+TaskExecuter2,Stopped,0.000000,0.669662
+TaskExecuter2,Waiting,0.000000,0.669662
+TaskExecuter3,Processing,0.000000,0.663184
+TaskExecuter3,Busy,0.000000,0.663184
+TaskExecuter3,Generating,0.000000,0.663184
+TaskExecuter3,Collecting,0.000000,0.663184
+TaskExecuter3,Releasing,0.000000,0.663184
+TaskExecuter3,Conveying,0.000000,0.663184
+TaskExecuter3,Travel empty,102781.680471,0.663184
+TaskExecuter3,Travel loaded,148411.868823,0.663184
+TaskExecuter3,Offset travel empty,0.000000,0.663184
+TaskExecuter3,Offset travel loaded,0.000000,0.663184
+TaskExecuter3,Loading,74950.000000,0.663184
+TaskExecuter3,Unloading,74950.000000,0.663184
+TaskExecuter3,Setup,0.000000,0.663184
+TaskExecuter3,Utilize,0.000000,0.663184
+TaskExecuter3,Full,0.000000,0.663184
+TaskExecuter3,Not empty,0.000000,0.663184
+TaskExecuter3,Filling,0.000000,0.663184
+TaskExecuter3,Mixing,0.000000,0.663184
+TaskExecuter3,Flowing,0.000000,0.663184
+TaskExecuter3,Allocated idle,0.000000,0.663184
+TaskExecuter3,Change over,0.000000,0.663184
+TaskExecuter3,Preprocessing,0.000000,0.663184
+TaskExecuter3,Postprocessing,0.000000,0.663184
+TaskExecuter3,Inspecting,0.000000,0.663184
+TaskExecuter3,Operating,0.000000,0.663184
+TaskExecuter3,Purging,0.000000,0.663184
+TaskExecuter3,Cleaning,0.000000,0.663184
+TaskExecuter3,Accelerating,0.000000,0.663184
+TaskExecuter3,Maxspeed,0.000000,0.663184
+TaskExecuter3,Decelerating,0.000000,0.663184
+TaskExecuter3,Accumulating,0.000000,0.663184
+TaskExecuter3,Idle,37945.998272,0.663184
+TaskExecuter3,Blocked,123060.452435,0.663184
+TaskExecuter3,Empty,0.000000,0.663184
+TaskExecuter3,Waiting for operator,42700.000000,0.663184
+TaskExecuter3,Waiting for transporter,0.000000,0.663184
+TaskExecuter3,Breakdown,0.000000,0.663184
+TaskExecuter3,Down,0.000000,0.663184
+TaskExecuter3,Starved,0.000000,0.663184
+TaskExecuter3,Repair,0.000000,0.663184
+TaskExecuter3,Maintenance,0.000000,0.663184
+TaskExecuter3,Lunch,0.000000,0.663184
+TaskExecuter3,On break,0.000000,0.663184
+TaskExecuter3,Suspend,0.000000,0.663184
+TaskExecuter3,Available,0.000000,0.663184
+TaskExecuter3,Standby,0.000000,0.663184
+TaskExecuter3,Stopped,0.000000,0.663184
+TaskExecuter3,Waiting,0.000000,0.663184
+TaskExecuter4,Processing,0.000000,0.649115
+TaskExecuter4,Busy,0.000000,0.649115
+TaskExecuter4,Generating,0.000000,0.649115
+TaskExecuter4,Collecting,0.000000,0.649115
+TaskExecuter4,Releasing,0.000000,0.649115
+TaskExecuter4,Conveying,0.000000,0.649115
+TaskExecuter4,Travel empty,99519.779809,0.649115
+TaskExecuter4,Travel loaded,144424.993390,0.649115
+TaskExecuter4,Offset travel empty,0.000000,0.649115
+TaskExecuter4,Offset travel loaded,0.000000,0.649115
+TaskExecuter4,Loading,74320.000000,0.649115
+TaskExecuter4,Unloading,74320.000000,0.649115
+TaskExecuter4,Setup,0.000000,0.649115
+TaskExecuter4,Utilize,0.000000,0.649115
+TaskExecuter4,Full,0.000000,0.649115
+TaskExecuter4,Not empty,0.000000,0.649115
+TaskExecuter4,Filling,0.000000,0.649115
+TaskExecuter4,Mixing,0.000000,0.649115
+TaskExecuter4,Flowing,0.000000,0.649115
+TaskExecuter4,Allocated idle,0.000000,0.649115
+TaskExecuter4,Change over,0.000000,0.649115
+TaskExecuter4,Preprocessing,0.000000,0.649115
+TaskExecuter4,Postprocessing,0.000000,0.649115
+TaskExecuter4,Inspecting,0.000000,0.649115
+TaskExecuter4,Operating,0.000000,0.649115
+TaskExecuter4,Purging,0.000000,0.649115
+TaskExecuter4,Cleaning,0.000000,0.649115
+TaskExecuter4,Accelerating,0.000000,0.649115
+TaskExecuter4,Maxspeed,0.000000,0.649115
+TaskExecuter4,Decelerating,0.000000,0.649115
+TaskExecuter4,Accumulating,0.000000,0.649115
+TaskExecuter4,Idle,40125.604068,0.649115
+TaskExecuter4,Blocked,127989.622733,0.649115
+TaskExecuter4,Empty,0.000000,0.649115
+TaskExecuter4,Waiting for operator,44100.000000,0.649115
+TaskExecuter4,Waiting for transporter,0.000000,0.649115
+TaskExecuter4,Breakdown,0.000000,0.649115
+TaskExecuter4,Down,0.000000,0.649115
+TaskExecuter4,Starved,0.000000,0.649115
+TaskExecuter4,Repair,0.000000,0.649115
+TaskExecuter4,Maintenance,0.000000,0.649115
+TaskExecuter4,Lunch,0.000000,0.649115
+TaskExecuter4,On break,0.000000,0.649115
+TaskExecuter4,Suspend,0.000000,0.649115
+TaskExecuter4,Available,0.000000,0.649115
+TaskExecuter4,Standby,0.000000,0.649115
+TaskExecuter4,Stopped,0.000000,0.649115
+TaskExecuter4,Waiting,0.000000,0.649115
+TaskExecuter5,Processing,0.000000,0.665864
+TaskExecuter5,Busy,0.000000,0.665864
+TaskExecuter5,Generating,0.000000,0.665864
+TaskExecuter5,Collecting,0.000000,0.665864
+TaskExecuter5,Releasing,0.000000,0.665864
+TaskExecuter5,Conveying,0.000000,0.665864
+TaskExecuter5,Travel empty,102972.212281,0.665864
+TaskExecuter5,Travel loaded,148592.067338,0.665864
+TaskExecuter5,Offset travel empty,0.000000,0.665864
+TaskExecuter5,Offset travel loaded,0.000000,0.665864
+TaskExecuter5,Loading,75580.075598,0.665864
+TaskExecuter5,Unloading,75570.000000,0.665864
+TaskExecuter5,Setup,0.000000,0.665864
+TaskExecuter5,Utilize,0.000000,0.665864
+TaskExecuter5,Full,0.000000,0.665864
+TaskExecuter5,Not empty,0.000000,0.665864
+TaskExecuter5,Filling,0.000000,0.665864
+TaskExecuter5,Mixing,0.000000,0.665864
+TaskExecuter5,Flowing,0.000000,0.665864
+TaskExecuter5,Allocated idle,0.000000,0.665864
+TaskExecuter5,Change over,0.000000,0.665864
+TaskExecuter5,Preprocessing,0.000000,0.665864
+TaskExecuter5,Postprocessing,0.000000,0.665864
+TaskExecuter5,Inspecting,0.000000,0.665864
+TaskExecuter5,Operating,0.000000,0.665864
+TaskExecuter5,Purging,0.000000,0.665864
+TaskExecuter5,Cleaning,0.000000,0.665864
+TaskExecuter5,Accelerating,0.000000,0.665864
+TaskExecuter5,Maxspeed,0.000000,0.665864
+TaskExecuter5,Decelerating,0.000000,0.665864
+TaskExecuter5,Accumulating,0.000000,0.665864
+TaskExecuter5,Idle,39233.092573,0.665864
+TaskExecuter5,Blocked,118252.552210,0.665864
+TaskExecuter5,Empty,0.000000,0.665864
+TaskExecuter5,Waiting for operator,44600.000000,0.665864
+TaskExecuter5,Waiting for transporter,0.000000,0.665864
+TaskExecuter5,Breakdown,0.000000,0.665864
+TaskExecuter5,Down,0.000000,0.665864
+TaskExecuter5,Starved,0.000000,0.665864
+TaskExecuter5,Repair,0.000000,0.665864
+TaskExecuter5,Maintenance,0.000000,0.665864
+TaskExecuter5,Lunch,0.000000,0.665864
+TaskExecuter5,On break,0.000000,0.665864
+TaskExecuter5,Suspend,0.000000,0.665864
+TaskExecuter5,Available,0.000000,0.665864
+TaskExecuter5,Standby,0.000000,0.665864
+TaskExecuter5,Stopped,0.000000,0.665864
+TaskExecuter5,Waiting,0.000000,0.665864
+TaskExecuter6,Processing,0.000000,0.656296
+TaskExecuter6,Busy,0.000000,0.656296
+TaskExecuter6,Generating,0.000000,0.656296
+TaskExecuter6,Collecting,0.000000,0.656296
+TaskExecuter6,Releasing,0.000000,0.656296
+TaskExecuter6,Conveying,0.000000,0.656296
+TaskExecuter6,Travel empty,101942.309074,0.656296
+TaskExecuter6,Travel loaded,145806.993600,0.656296
+TaskExecuter6,Offset travel empty,0.000000,0.656296
+TaskExecuter6,Offset travel loaded,0.000000,0.656296
+TaskExecuter6,Loading,74600.000000,0.656296
+TaskExecuter6,Unloading,74578.415305,0.656296
+TaskExecuter6,Setup,0.000000,0.656296
+TaskExecuter6,Utilize,0.000000,0.656296
+TaskExecuter6,Full,0.000000,0.656296
+TaskExecuter6,Not empty,0.000000,0.656296
+TaskExecuter6,Filling,0.000000,0.656296
+TaskExecuter6,Mixing,0.000000,0.656296
+TaskExecuter6,Flowing,0.000000,0.656296
+TaskExecuter6,Allocated idle,0.000000,0.656296
+TaskExecuter6,Change over,0.000000,0.656296
+TaskExecuter6,Preprocessing,0.000000,0.656296
+TaskExecuter6,Postprocessing,0.000000,0.656296
+TaskExecuter6,Inspecting,0.000000,0.656296
+TaskExecuter6,Operating,0.000000,0.656296
+TaskExecuter6,Purging,0.000000,0.656296
+TaskExecuter6,Cleaning,0.000000,0.656296
+TaskExecuter6,Accelerating,0.000000,0.656296
+TaskExecuter6,Maxspeed,0.000000,0.656296
+TaskExecuter6,Decelerating,0.000000,0.656296
+TaskExecuter6,Accumulating,0.000000,0.656296
+TaskExecuter6,Idle,40135.404754,0.656296
+TaskExecuter6,Blocked,121436.877268,0.656296
+TaskExecuter6,Empty,0.000000,0.656296
+TaskExecuter6,Waiting for operator,46300.000000,0.656296
+TaskExecuter6,Waiting for transporter,0.000000,0.656296
+TaskExecuter6,Breakdown,0.000000,0.656296
+TaskExecuter6,Down,0.000000,0.656296
+TaskExecuter6,Starved,0.000000,0.656296
+TaskExecuter6,Repair,0.000000,0.656296
+TaskExecuter6,Maintenance,0.000000,0.656296
+TaskExecuter6,Lunch,0.000000,0.656296
+TaskExecuter6,On break,0.000000,0.656296
+TaskExecuter6,Suspend,0.000000,0.656296
+TaskExecuter6,Available,0.000000,0.656296
+TaskExecuter6,Standby,0.000000,0.656296
+TaskExecuter6,Stopped,0.000000,0.656296
+TaskExecuter6,Waiting,0.000000,0.656296
+TaskExecuter7,Processing,0.000000,0.666144
+TaskExecuter7,Busy,0.000000,0.666144
+TaskExecuter7,Generating,0.000000,0.666144
+TaskExecuter7,Collecting,0.000000,0.666144
+TaskExecuter7,Releasing,0.000000,0.666144
+TaskExecuter7,Conveying,0.000000,0.666144
+TaskExecuter7,Travel empty,103185.129949,0.666144
+TaskExecuter7,Travel loaded,148168.497265,0.666144
+TaskExecuter7,Offset travel empty,0.000000,0.666144
+TaskExecuter7,Offset travel loaded,0.000000,0.666144
+TaskExecuter7,Loading,75780.000000,0.666144
+TaskExecuter7,Unloading,75750.000000,0.666144
+TaskExecuter7,Setup,0.000000,0.666144
+TaskExecuter7,Utilize,0.000000,0.666144
+TaskExecuter7,Full,0.000000,0.666144
+TaskExecuter7,Not empty,0.000000,0.666144
+TaskExecuter7,Filling,0.000000,0.666144
+TaskExecuter7,Mixing,0.000000,0.666144
+TaskExecuter7,Flowing,0.000000,0.666144
+TaskExecuter7,Allocated idle,0.000000,0.666144
+TaskExecuter7,Change over,0.000000,0.666144
+TaskExecuter7,Preprocessing,0.000000,0.666144
+TaskExecuter7,Postprocessing,0.000000,0.666144
+TaskExecuter7,Inspecting,0.000000,0.666144
+TaskExecuter7,Operating,0.000000,0.666144
+TaskExecuter7,Purging,0.000000,0.666144
+TaskExecuter7,Cleaning,0.000000,0.666144
+TaskExecuter7,Accelerating,0.000000,0.666144
+TaskExecuter7,Maxspeed,0.000000,0.666144
+TaskExecuter7,Decelerating,0.000000,0.666144
+TaskExecuter7,Accumulating,0.000000,0.666144
+TaskExecuter7,Idle,38742.115350,0.666144
+TaskExecuter7,Blocked,117974.257436,0.666144
+TaskExecuter7,Empty,0.000000,0.666144
+TaskExecuter7,Waiting for operator,45200.000000,0.666144
+TaskExecuter7,Waiting for transporter,0.000000,0.666144
+TaskExecuter7,Breakdown,0.000000,0.666144
+TaskExecuter7,Down,0.000000,0.666144
+TaskExecuter7,Starved,0.000000,0.666144
+TaskExecuter7,Repair,0.000000,0.666144
+TaskExecuter7,Maintenance,0.000000,0.666144
+TaskExecuter7,Lunch,0.000000,0.666144
+TaskExecuter7,On break,0.000000,0.666144
+TaskExecuter7,Suspend,0.000000,0.666144
+TaskExecuter7,Available,0.000000,0.666144
+TaskExecuter7,Standby,0.000000,0.666144
+TaskExecuter7,Stopped,0.000000,0.666144
+TaskExecuter7,Waiting,0.000000,0.666144
+TaskExecuter8,Processing,0.000000,0.673938
+TaskExecuter8,Busy,0.000000,0.673938
+TaskExecuter8,Generating,0.000000,0.673938
+TaskExecuter8,Collecting,0.000000,0.673938
+TaskExecuter8,Releasing,0.000000,0.673938
+TaskExecuter8,Conveying,0.000000,0.673938
+TaskExecuter8,Travel empty,104490.005619,0.673938
+TaskExecuter8,Travel loaded,150587.711536,0.673938
+TaskExecuter8,Offset travel empty,0.000000,0.673938
+TaskExecuter8,Offset travel loaded,0.000000,0.673938
+TaskExecuter8,Loading,76260.000000,0.673938
+TaskExecuter8,Unloading,76260.000000,0.673938
+TaskExecuter8,Setup,0.000000,0.673938
+TaskExecuter8,Utilize,0.000000,0.673938
+TaskExecuter8,Full,0.000000,0.673938
+TaskExecuter8,Not empty,0.000000,0.673938
+TaskExecuter8,Filling,0.000000,0.673938
+TaskExecuter8,Mixing,0.000000,0.673938
+TaskExecuter8,Flowing,0.000000,0.673938
+TaskExecuter8,Allocated idle,0.000000,0.673938
+TaskExecuter8,Change over,0.000000,0.673938
+TaskExecuter8,Preprocessing,0.000000,0.673938
+TaskExecuter8,Postprocessing,0.000000,0.673938
+TaskExecuter8,Inspecting,0.000000,0.673938
+TaskExecuter8,Operating,0.000000,0.673938
+TaskExecuter8,Purging,0.000000,0.673938
+TaskExecuter8,Cleaning,0.000000,0.673938
+TaskExecuter8,Accelerating,0.000000,0.673938
+TaskExecuter8,Maxspeed,0.000000,0.673938
+TaskExecuter8,Decelerating,0.000000,0.673938
+TaskExecuter8,Accumulating,0.000000,0.673938
+TaskExecuter8,Idle,37162.578373,0.673938
+TaskExecuter8,Blocked,117839.704472,0.673938
+TaskExecuter8,Empty,0.000000,0.673938
+TaskExecuter8,Waiting for operator,42200.000000,0.673938
+TaskExecuter8,Waiting for transporter,0.000000,0.673938
+TaskExecuter8,Breakdown,0.000000,0.673938
+TaskExecuter8,Down,0.000000,0.673938
+TaskExecuter8,Starved,0.000000,0.673938
+TaskExecuter8,Repair,0.000000,0.673938
+TaskExecuter8,Maintenance,0.000000,0.673938
+TaskExecuter8,Lunch,0.000000,0.673938
+TaskExecuter8,On break,0.000000,0.673938
+TaskExecuter8,Suspend,0.000000,0.673938
+TaskExecuter8,Available,0.000000,0.673938
+TaskExecuter8,Standby,0.000000,0.673938
+TaskExecuter8,Stopped,0.000000,0.673938
+TaskExecuter8,Waiting,0.000000,0.673938
+TaskExecuter9,Processing,0.000000,0.662546
+TaskExecuter9,Busy,0.000000,0.662546
+TaskExecuter9,Generating,0.000000,0.662546
+TaskExecuter9,Collecting,0.000000,0.662546
+TaskExecuter9,Releasing,0.000000,0.662546
+TaskExecuter9,Conveying,0.000000,0.662546
+TaskExecuter9,Travel empty,103389.403893,0.662546
+TaskExecuter9,Travel loaded,147988.156848,0.662546
+TaskExecuter9,Offset travel empty,0.000000,0.662546
+TaskExecuter9,Offset travel loaded,0.000000,0.662546
+TaskExecuter9,Loading,74680.000000,0.662546
+TaskExecuter9,Unloading,74650.000000,0.662546
+TaskExecuter9,Setup,0.000000,0.662546
+TaskExecuter9,Utilize,0.000000,0.662546
+TaskExecuter9,Full,0.000000,0.662546
+TaskExecuter9,Not empty,0.000000,0.662546
+TaskExecuter9,Filling,0.000000,0.662546
+TaskExecuter9,Mixing,0.000000,0.662546
+TaskExecuter9,Flowing,0.000000,0.662546
+TaskExecuter9,Allocated idle,0.000000,0.662546
+TaskExecuter9,Change over,0.000000,0.662546
+TaskExecuter9,Preprocessing,0.000000,0.662546
+TaskExecuter9,Postprocessing,0.000000,0.662546
+TaskExecuter9,Inspecting,0.000000,0.662546
+TaskExecuter9,Operating,0.000000,0.662546
+TaskExecuter9,Purging,0.000000,0.662546
+TaskExecuter9,Cleaning,0.000000,0.662546
+TaskExecuter9,Accelerating,0.000000,0.662546
+TaskExecuter9,Maxspeed,0.000000,0.662546
+TaskExecuter9,Decelerating,0.000000,0.662546
+TaskExecuter9,Accumulating,0.000000,0.662546
+TaskExecuter9,Idle,36187.957392,0.662546
+TaskExecuter9,Blocked,119404.481867,0.662546
+TaskExecuter9,Empty,0.000000,0.662546
+TaskExecuter9,Waiting for operator,48500.000000,0.662546
+TaskExecuter9,Waiting for transporter,0.000000,0.662546
+TaskExecuter9,Breakdown,0.000000,0.662546
+TaskExecuter9,Down,0.000000,0.662546
+TaskExecuter9,Starved,0.000000,0.662546
+TaskExecuter9,Repair,0.000000,0.662546
+TaskExecuter9,Maintenance,0.000000,0.662546
+TaskExecuter9,Lunch,0.000000,0.662546
+TaskExecuter9,On break,0.000000,0.662546
+TaskExecuter9,Suspend,0.000000,0.662546
+TaskExecuter9,Available,0.000000,0.662546
+TaskExecuter9,Standby,0.000000,0.662546
+TaskExecuter9,Stopped,0.000000,0.662546
+TaskExecuter9,Waiting,0.000000,0.662546
+TaskExecuter10,Processing,0.000000,0.656129
+TaskExecuter10,Busy,0.000000,0.656129
+TaskExecuter10,Generating,0.000000,0.656129
+TaskExecuter10,Collecting,0.000000,0.656129
+TaskExecuter10,Releasing,0.000000,0.656129
+TaskExecuter10,Conveying,0.000000,0.656129
+TaskExecuter10,Travel empty,101538.157203,0.656129
+TaskExecuter10,Travel loaded,145788.690399,0.656129
+TaskExecuter10,Offset travel empty,0.000000,0.656129
+TaskExecuter10,Offset travel loaded,0.000000,0.656129
+TaskExecuter10,Loading,74750.000000,0.656129
+TaskExecuter10,Unloading,74750.000000,0.656129
+TaskExecuter10,Setup,0.000000,0.656129
+TaskExecuter10,Utilize,0.000000,0.656129
+TaskExecuter10,Full,0.000000,0.656129
+TaskExecuter10,Not empty,0.000000,0.656129
+TaskExecuter10,Filling,0.000000,0.656129
+TaskExecuter10,Mixing,0.000000,0.656129
+TaskExecuter10,Flowing,0.000000,0.656129
+TaskExecuter10,Allocated idle,0.000000,0.656129
+TaskExecuter10,Change over,0.000000,0.656129
+TaskExecuter10,Preprocessing,0.000000,0.656129
+TaskExecuter10,Postprocessing,0.000000,0.656129
+TaskExecuter10,Inspecting,0.000000,0.656129
+TaskExecuter10,Operating,0.000000,0.656129
+TaskExecuter10,Purging,0.000000,0.656129
+TaskExecuter10,Cleaning,0.000000,0.656129
+TaskExecuter10,Accelerating,0.000000,0.656129
+TaskExecuter10,Maxspeed,0.000000,0.656129
+TaskExecuter10,Decelerating,0.000000,0.656129
+TaskExecuter10,Accumulating,0.000000,0.656129
+TaskExecuter10,Idle,39863.939394,0.656129
+TaskExecuter10,Blocked,124409.213004,0.656129
+TaskExecuter10,Empty,0.000000,0.656129
+TaskExecuter10,Waiting for operator,43700.000000,0.656129
+TaskExecuter10,Waiting for transporter,0.000000,0.656129
+TaskExecuter10,Breakdown,0.000000,0.656129
+TaskExecuter10,Down,0.000000,0.656129
+TaskExecuter10,Starved,0.000000,0.656129
+TaskExecuter10,Repair,0.000000,0.656129
+TaskExecuter10,Maintenance,0.000000,0.656129
+TaskExecuter10,Lunch,0.000000,0.656129
+TaskExecuter10,On break,0.000000,0.656129
+TaskExecuter10,Suspend,0.000000,0.656129
+TaskExecuter10,Available,0.000000,0.656129
+TaskExecuter10,Standby,0.000000,0.656129
+TaskExecuter10,Stopped,0.000000,0.656129
+TaskExecuter10,Waiting,0.000000,0.656129
