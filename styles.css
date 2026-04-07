@@ -293,12 +293,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   gap: 14px;
-  margin-bottom: 14px;
-}
-
-.demo-note {
-  margin: 0 0 18px;
-  color: var(--muted);
+  margin-bottom: 18px;
 }
 
 .video-frame {
