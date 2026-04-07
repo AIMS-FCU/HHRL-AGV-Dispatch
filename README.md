@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="./Baseline%20Traditional%20Rule-Based%20Method.mp4">
-    <img src="https://img.shields.io/badge/Watch%20Demo-Open%20MP4-blue?style=for-the-badge" alt="Watch Demo" />
+  <a href="https://youtu.be/k7mr7pZXXjo">
+    <img src="https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge" alt="Watch Demo on YouTube" />
   </a>
   <a href="#visual-snapshot">
     <img src="https://img.shields.io/badge/View-Figures%20and%20Results-success?style=for-the-badge" alt="View Figures and Results" />
