@@ -6,21 +6,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Demo%20Video-Baseline%20Traditional%20Rule--Based%20Method-black?style=for-the-badge" alt="Demo Video" />
-</p>
-
-<p align="center">
   A direct visual reference to the conventional dispatching baseline used for comparison.<br/>
   Use the demo to quickly inspect how the traditional rule-based method behaves before comparing it with the proposed HHRL framework.
 </p>
 
 <p align="center">
   <a href="https://youtu.be/k7mr7pZXXjo">
-    <img src="https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge" alt="Watch Demo on YouTube" />
+    <img src="https://img.youtube.com/vi/k7mr7pZXXjo/maxresdefault.jpg" alt="Watch the baseline traditional rule-based AGV dispatching demo on YouTube" width="840" />
   </a>
-  <a href="#visual-snapshot">
-    <img src="https://img.shields.io/badge/View-Figures%20and%20Results-success?style=for-the-badge" alt="View Figures and Results" />
-  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/k7mr7pZXXjo"><strong>Watch Demo on YouTube</strong></a> |
+  <a href="#visual-snapshot"><strong>View Figures and Results</strong></a>
 </p>
 
 <p align="center">
