@@ -385,6 +385,17 @@ h1 {
   padding: 28px;
 }
 
+.gallery-card-heatmap .gallery-media {
+  padding: 16px 20px;
+}
+
+.gallery-card-heatmap img {
+  width: auto;
+  max-width: 100%;
+  max-height: none;
+  height: auto;
+}
+
 .gallery-card-horizontal .gallery-media {
   padding: 16px;
 }
