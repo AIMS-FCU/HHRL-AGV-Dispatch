@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://youtu.be/k7mr7pZXXjo"><strong>Watch Demo on YouTube</strong></a> |
-  <a href="#visual-snapshot"><strong>View Figures and Results</strong></a>
+  <a href="https://aims-fcu.github.io/HHRL-AGV-Dispatch/#results"><strong>Project Website Results</strong></a>
 </p>
 
 <p align="center">
