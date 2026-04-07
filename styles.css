@@ -343,6 +343,7 @@ h1 {
   display: flex;
   flex-direction: column;
   align-self: start;
+  height: fit-content;
   border-radius: 24px;
   background: linear-gradient(180deg, rgba(244, 247, 251, 0.98), rgba(230, 237, 246, 0.96));
   border: 1px solid rgba(255, 255, 255, 0.18);
@@ -382,6 +383,14 @@ h1 {
 
 .gallery-card-wide .gallery-media {
   padding: 28px;
+}
+
+.gallery-card-horizontal .gallery-media {
+  padding: 16px;
+}
+
+.gallery-card-horizontal img {
+  max-height: 420px;
 }
 
 .citation-card {
