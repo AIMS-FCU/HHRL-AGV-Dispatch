@@ -6,6 +6,11 @@
 </p>
 
 <p align="center">
+  <a href="./Baseline%20Traditional%20Rule-Based%20Method.mp4"><strong>Baseline Traditional Rule-Based Method Demo</strong></a><br/>
+  A direct visual reference to the conventional dispatching baseline used for comparison.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Paper%20Coming%20Soon-orange" alt="Status" />
   <img src="https://img.shields.io/badge/Method-HHRL%20%2B%20D3QN-success" alt="Method" />
   <img src="https://img.shields.io/badge/Scenario-AI%20Server%20Reliability%20Testing-blue" alt="Scenario" />
